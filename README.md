@@ -1,2 +1,2 @@
 # tictactoe
-firstjsproject
+this is a first js project
